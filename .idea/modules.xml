@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Big data analytics/.idea/Big data analytics.iml" filepath="$PROJECT_DIR$/../Big data analytics/.idea/Big data analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Project work - BDA.iml" filepath="$PROJECT_DIR$/.idea/Project work - BDA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ResidualConnectionScaling/.idea/ResidualConnectionScaling.iml" filepath="$PROJECT_DIR$/../ResidualConnectionScaling/.idea/ResidualConnectionScaling.iml" />
     </modules>
   </component>
 </project>
